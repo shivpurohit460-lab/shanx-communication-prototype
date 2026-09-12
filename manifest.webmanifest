@@ -1,0 +1,10 @@
+{
+  "name": "SHANX Intelligent Communication",
+  "short_name": "SHANX Comms",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07101d",
+  "theme_color": "#07101d",
+  "description": "Mobile prototype for SHANX Intelligent Communication System",
+  "icons": []
+}
